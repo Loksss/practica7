@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673355786871",
+    "firebase_url": "https://loginpractica-6028e.firebaseio.com",
+    "project_id": "loginpractica-6028e",
+    "storage_bucket": "loginpractica-6028e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673355786871:android:faadb968830ac198",
+        "android_client_info": {
+          "package_name": "com.example.servicios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673355786871-uvqhmqdn77r6hgtm2tsecu1v88vj5jr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.servicios",
+            "certificate_hash": "bd4e7926ad3a8b7d184beb23c5bcc0147beb1c5f"
+          }
+        },
+        {
+          "client_id": "673355786871-4que8nohi2dr283m93a8umh5h2p6iq3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUvtPlS97v3J-uzcyPsms9Ln6T6EF1iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673355786871-4que8nohi2dr283m93a8umh5h2p6iq3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
